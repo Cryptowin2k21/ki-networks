@@ -1,0 +1,1 @@
+cat $HOME/testnet/kid/config/gentx/gentx-*.json
